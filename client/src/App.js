@@ -26,7 +26,7 @@ export default class App extends Component {
         <Route exact path='/'component={MovieList}/>
         <Route exact path='/movies/2:id'component={Movie} />
         <Route exact path='/movies/3:id'component={Movie} />
-        <div> Replace this Div with your Routes </div>
+        <div>Lets Go</div>
         </div>
       </Route>
     );
